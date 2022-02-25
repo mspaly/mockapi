@@ -9,17 +9,21 @@
             "birthDate": "1947-09-05",
             "emailContacts": [
                 {
-                    "personal": "bwgd@mailinator.com"
+                    "type": "personal",
+                    "email": "bwgd@mailinator.com"
                 }
             ],
             "phoneContacts": [
                 {
-                    "mobile": "285-777-3344"
+                    "type": "mobile",
+                    "number": "285-777-3344"
                 },
                 {
+                    "type": "home",
                     "home": "285-233-3223"
                 },
                 {
+                    "type": "office",
                     "office": "285-233-3233"
                 }
             ],
@@ -37,8 +41,65 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "country": "US",
-                    "postalCode": "80923",
-                    "phone": "285-777-3344"
+                    "postalCode": "80923"
+                }
+            ],
+            "paymentMethods": [
+                {
+                    "id": "a1B5E000003zjSlUAI",
+                    "ccAddressId": "123456789",
+                    "paymentType": "creditCard",
+                    "ccType": "Visa",
+                    "ccExpirationDate": "02/2026",
+                    "ccLastFour": "8932",
+                    "ccToken": "7020000000005828932",
+                    "ccName": "Bob Weir",
+                    "active": true
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "parentId": null,
+            "firstName": "Targer",
+            "middleName": null,
+            "lastName": "Moore",
+            "birthDate": "1947-09-05",
+            "emailContacts": [
+                {
+                    "type": "personal",
+                    "email": "bwgd@mailinator.com"
+                }
+            ],
+            "phoneContacts": [
+                {
+                    "type": "mobile",
+                    "number": "285-777-3344"
+                },
+                {
+                    "type": "home",
+                    "home": "285-233-3223"
+                },
+                {
+                    "type": "office",
+                    "office": "285-233-3233"
+                }
+            ],
+            "countryCode": "US",
+            "languageCode": "en_US",
+            "isActive": true,
+            "addresses": [
+                {
+                    "id": "123456789",
+                    "firstName": "Targer",
+                    "lastName": "Mole",
+                    "address": "14999 Rte 9",
+                    "address2": "Suite 10003",
+                    "address3": null,
+                    "city": "Waltham",
+                    "state": "MA",
+                    "country": "US",
+                    "postalCode": "80923-2345"
                 }
             ],
             "paymentMethods": [
