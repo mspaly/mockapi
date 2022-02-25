@@ -1,0 +1,59 @@
+{
+    "customer": [
+        {
+            "id": "1",
+            "parentId": null,
+            "firstName": "Bob",
+            "middleName": null,
+            "lastName": "Weir",
+            "birthDate": "1947-09-05",
+            "emailContacts": [
+                {
+                    "personal": "bwgd@mailinator.com"
+                }
+            ],
+            "phoneContacts": [
+                {
+                    "mobile": "285-777-3344"
+                },
+                {
+                    "home": "285-233-3223"
+                },
+                {
+                    "office": "285-233-3233"
+                }
+            ],
+            "countryCode": "US",
+            "languageCode": "en_US",
+            "isActive": true,
+            "addresses": [
+                {
+                    "id": "123456789",
+                    "firstName": "Bob",
+                    "lastName": "Weir",
+                    "address": "1280 Haight",
+                    "address2": null,
+                    "address3": null,
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "country": "US",
+                    "postalCode": "80923",
+                    "phone": "285-777-3344"
+                }
+            ],
+            "paymentMethods": [
+                {
+                    "id": "a1B5E000003zjSlUAI",
+                    "ccAddressId": "123456789",
+                    "paymentType": "creditCard",
+                    "ccType": "Visa",
+                    "ccExpirationDate": "02/2026",
+                    "ccLastFour": "8932",
+                    "ccToken": "7020000000005828932",
+                    "ccName": "Bob Weir",
+                    "active": true
+                }
+            ]
+        }
+    ]
+}
