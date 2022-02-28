@@ -1,0 +1,12 @@
+{
+    "name": "@mspaly/mockapi",
+    "version": "0.1.0",
+    "private": false,
+    "author": "Michael Spaly <spalym@gmail.com>",
+    "scripts": {
+        "startdb": "json-server --watch db.json --port 3333"
+    },
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
