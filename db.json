@@ -7,35 +7,35 @@
             "middleName": null,
             "lastName": "Weir",
             "birthDate": "1947-09-05",
+            "countryCode": "US",
+            "languageCode": "en_US",
+            "isActive": true,
             "emailContacts": [
                 {
                     "type": "personal",
-                    "email": "bwgd@mailinator.com"
+                    "value": "bwgd@mailinator.com"
                 }
             ],
             "phoneContacts": [
                 {
                     "type": "mobile",
-                    "number": "285-777-3344"
+                    "value": "285-777-3344"
                 },
                 {
                     "type": "home",
-                    "home": "285-233-3223"
+                    "value": "285-233-3223"
                 },
                 {
                     "type": "office",
-                    "office": "285-233-3233"
+                    "value": "285-233-3233"
                 }
             ],
-            "countryCode": "US",
-            "languageCode": "en_US",
-            "isActive": true,
             "addresses": [
                 {
                     "id": "123456789",
                     "firstName": "Bob",
                     "lastName": "Weir",
-                    "address": "1280 Haight",
+                    "address1": "1280 Haight",
                     "address2": null,
                     "address3": null,
                     "city": "San Francisco",
@@ -65,35 +65,35 @@
             "middleName": null,
             "lastName": "Moore",
             "birthDate": "1947-09-05",
+            "countryCode": "US",
+            "languageCode": "en_US",
+            "isActive": true,
             "emailContacts": [
                 {
                     "type": "personal",
-                    "email": "bwgd@mailinator.com"
+                    "value": "bwgd@mailinator.com"
                 }
             ],
             "phoneContacts": [
                 {
                     "type": "mobile",
-                    "number": "285-777-3344"
+                    "value": "285-777-3344"
                 },
                 {
                     "type": "home",
-                    "home": "285-233-3223"
+                    "value": "285-233-3223"
                 },
                 {
                     "type": "office",
-                    "office": "285-233-3233"
+                    "value": "285-233-3233"
                 }
             ],
-            "countryCode": "US",
-            "languageCode": "en_US",
-            "isActive": true,
             "addresses": [
                 {
                     "id": "123456789",
                     "firstName": "Targer",
                     "lastName": "Mole",
-                    "address": "14999 Rte 9",
+                    "address1": "14999 Rte 9",
                     "address2": "Suite 10003",
                     "address3": null,
                     "city": "Waltham",
