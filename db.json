@@ -41,7 +41,8 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "country": "US",
-                    "postalCode": "80923"
+                    "postalCode": "80923",
+                    "phone": "285-233-3233"
                 }
             ],
             "paymentMethods": [
@@ -99,7 +100,8 @@
                     "city": "Waltham",
                     "state": "MA",
                     "country": "US",
-                    "postalCode": "80923-2345"
+                    "postalCode": "80923-2345",
+                    "phone": "285-233-3233"
                 }
             ],
             "paymentMethods": [
@@ -157,7 +159,8 @@
                     "city": "Waltham",
                     "state": "MA",
                     "country": "US",
-                    "postalCode": "80923-2345"
+                    "postalCode": "80923-2345",
+                    "phone": "285-233-3233"
                 }
             ],
             "paymentMethods": [
