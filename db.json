@@ -7,8 +7,8 @@
             "middleName": null,
             "lastName": "Customer",
             "birthDate": "1947-09-05",
-            "countryCode": "US",
-            "languageCode": "en_US",
+            "countryCode": "GB",
+            "languageCode": "en_GB",
             "isActive": true,
             "emailContacts": [
                 {
@@ -38,10 +38,10 @@
                     "address1": "1280 Haight",
                     "address2": null,
                     "address3": null,
-                    "city": "San Francisco",
-                    "state": "CA",
-                    "country": "US",
-                    "postalCode": "80923",
+                    "city": "London",
+                    "state": "Wales",
+                    "country": "GB",
+                    "postalCode": "SW1A 2AA",
                     "phone": "285-233-3233"
                 }
             ],
@@ -66,8 +66,8 @@
             "middleName": null,
             "lastName": "Customer",
             "birthDate": "1947-09-05",
-            "countryCode": "US",
-            "languageCode": "en_US",
+            "countryCode": "GB",
+            "languageCode": "en_GB",
             "isActive": true,
             "emailContacts": [
                 {
@@ -97,10 +97,10 @@
                     "address1": "14999 Rte 9",
                     "address2": "Suite 10003",
                     "address3": null,
-                    "city": "Waltham",
-                    "state": "MA",
-                    "country": "US",
-                    "postalCode": "80923-2345",
+                    "city": "London",
+                    "state": "Wales",
+                    "country": "GB",
+                    "postalCode": "SW1A 2AA",
                     "phone": "285-233-3233"
                 }
             ],
@@ -125,8 +125,8 @@
             "middleName": null,
             "lastName": "Customer",
             "birthDate": "1947-09-05",
-            "countryCode": "US",
-            "languageCode": "en_US",
+            "countryCode": "GB",
+            "languageCode": "en_GB",
             "isActive": true,
             "emailContacts": [
                 {
@@ -156,10 +156,10 @@
                     "address1": "14999 Rte 9",
                     "address2": "Suite 10003",
                     "address3": null,
-                    "city": "Waltham",
-                    "state": "MA",
-                    "country": "US",
-                    "postalCode": "80923-2345",
+                    "city": "London",
+                    "state": "Wales",
+                    "country": "GB",
+                    "postalCode": "SW1A 2AA",
                     "phone": "285-233-3233"
                 }
             ],
