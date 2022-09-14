@@ -161,6 +161,19 @@
                     "country": "GB",
                     "postalCode": "SW1A 2AA",
                     "phone": "285-233-3233"
+                },
+                {
+                    "id": "987654321",
+                    "firstName": "Hager",
+                    "lastName": "Bend",
+                    "address1": "876 Palace Punch Pl",
+                    "address2": "Apt 100",
+                    "address3": null,
+                    "city": "London",
+                    "state": "Wales",
+                    "country": "GB",
+                    "postalCode": "SW1A 2AA",
+                    "phone": "285-233-3233"
                 }
             ],
             "paymentMethods": [
@@ -172,6 +185,17 @@
                     "ccExpirationDate": "02/2026",
                     "ccLastFour": "8932",
                     "ccToken": "7020000000005828932",
+                    "ccName": "Bob Weir",
+                    "active": true
+                },
+                {
+                    "id": "c8J5E999903zjSlOIL",
+                    "ccAddressId": "123456789",
+                    "paymentType": "creditCard",
+                    "ccType": "Visa",
+                    "ccExpirationDate": "01/2024",
+                    "ccLastFour": "1111",
+                    "ccToken": "7021000000005828777",
                     "ccName": "Bob Weir",
                     "active": true
                 }
