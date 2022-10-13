@@ -53,7 +53,7 @@
                     "ccType": "Visa",
                     "ccExpirationDate": "02/2026",
                     "ccLastFour": "8932",
-                    "ccToken": "7020000000005828932",
+                    "ccToken": "7010000000047501111",
                     "ccName": "Bob Weir",
                     "active": true
                 }
@@ -112,7 +112,7 @@
                     "ccType": "Visa",
                     "ccExpirationDate": "02/2026",
                     "ccLastFour": "8932",
-                    "ccToken": "7020000000005828932",
+                    "ccToken": "7010000000047501111",
                     "ccName": "Bob Weir",
                     "active": true
                 }
@@ -184,7 +184,7 @@
                     "ccType": "Visa",
                     "ccExpirationDate": "02/2026",
                     "ccLastFour": "8932",
-                    "ccToken": "7020000000005828932",
+                    "ccToken": "7010000000047501111",
                     "ccName": "Bob Weir",
                     "active": true
                 },
@@ -195,7 +195,7 @@
                     "ccType": "Visa",
                     "ccExpirationDate": "01/2024",
                     "ccLastFour": "1111",
-                    "ccToken": "7021000000005828777",
+                    "ccToken": "7010000000047501111",
                     "ccName": "Bob Weir",
                     "active": true
                 }
