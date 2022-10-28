@@ -47,8 +47,8 @@
             ],
             "paymentMethods": [
                 {
-                    "id": "a1B5E000003zjSlUAI",
-                    "ccAddressId": "123456789",
+                    "id": "28",
+                    "addressId": "123456789",
                     "paymentType": "creditCard",
                     "ccType": "Visa",
                     "ccExpirationDate": "02/2026",
@@ -106,8 +106,8 @@
             ],
             "paymentMethods": [
                 {
-                    "id": "a1B5E000003zjSlUAI",
-                    "ccAddressId": "123456789",
+                    "id": "28",
+                    "addressId": "123456789",
                     "paymentType": "creditCard",
                     "ccType": "Visa",
                     "ccExpirationDate": "02/2026",
@@ -179,7 +179,7 @@
             "paymentMethods": [
                 {
                     "id": "a1B5E000003zjSlUAI",
-                    "ccAddressId": "123456789",
+                    "addressId": "123456789",
                     "paymentType": "creditCard",
                     "ccType": "Visa",
                     "ccExpirationDate": "02/2026",
@@ -190,7 +190,7 @@
                 },
                 {
                     "id": "c8J5E999903zjSlOIL",
-                    "ccAddressId": "123456789",
+                    "addressId": "123456789",
                     "paymentType": "creditCard",
                     "ccType": "Visa",
                     "ccExpirationDate": "01/2024",
