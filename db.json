@@ -19,15 +19,15 @@
             "phoneContacts": [
                 {
                     "type": "mobile",
-                    "value": "285-777-3344"
+                    "value": "2857773344"
                 },
                 {
                     "type": "home",
-                    "value": "285-233-3223"
+                    "value": "2852333223"
                 },
                 {
                     "type": "office",
-                    "value": "285-233-3233"
+                    "value": "2852333233"
                 }
             ],
             "addresses": [
@@ -42,7 +42,7 @@
                     "state": "Wales",
                     "country": "GB",
                     "postalCode": "SW1A 2AA",
-                    "phone": "285-233-3233"
+                    "phone": "2852333233"
                 }
             ],
             "paymentMethods": [
@@ -78,15 +78,15 @@
             "phoneContacts": [
                 {
                     "type": "mobile",
-                    "value": "285-777-3344"
+                    "value": "2857773344"
                 },
                 {
                     "type": "home",
-                    "value": "285-233-3223"
+                    "value": "2852333223"
                 },
                 {
                     "type": "office",
-                    "value": "285-233-3233"
+                    "value": "2852333233"
                 }
             ],
             "addresses": [
@@ -101,7 +101,7 @@
                     "state": "Wales",
                     "country": "GB",
                     "postalCode": "SW1A 2AA",
-                    "phone": "285-233-3233"
+                    "phone": "2852333233"
                 }
             ],
             "paymentMethods": [
@@ -137,15 +137,15 @@
             "phoneContacts": [
                 {
                     "type": "mobile",
-                    "value": "285-777-3344"
+                    "value": "2857773344"
                 },
                 {
                     "type": "home",
-                    "value": "285-233-3223"
+                    "value": "2852333223"
                 },
                 {
                     "type": "office",
-                    "value": "285-233-3233"
+                    "value": "2852333233"
                 }
             ],
             "addresses": [
@@ -160,7 +160,7 @@
                     "state": "Wales",
                     "country": "GB",
                     "postalCode": "SW1A 2AA",
-                    "phone": "285-233-3233"
+                    "phone": "2852333233"
                 },
                 {
                     "id": "987654321",
@@ -173,7 +173,7 @@
                     "state": "Wales",
                     "country": "GB",
                     "postalCode": "SW1A 2AA",
-                    "phone": "285-233-3233"
+                    "phone": "2852333233"
                 }
             ],
             "paymentMethods": [
