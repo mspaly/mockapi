@@ -35,7 +35,7 @@
                     "country": "GB",
                     "postalCode": "BT48 8BY",
                     "phone": "2987654321"
-                },
+                }
             ],
             "paymentMethods": [
                 {
@@ -86,7 +86,7 @@
                     "country": "GB",
                     "postalCode": "BT48 8BY",
                     "phone": "2987654321"
-                },
+                }
             ],
             "paymentMethods": [
                 {
@@ -137,7 +137,7 @@
                     "country": "HR",
                     "postalCode": "54467",
                     "phone": "2987654321"
-                },
+                }
             ],
             "paymentMethods": [
                 {
@@ -188,7 +188,7 @@
                     "country": "GB",
                     "postalCode": "BT48 8BY",
                     "phone": "2987654321"
-                },
+                }
             ],
             "paymentMethods": [
                 {
@@ -239,7 +239,7 @@
                     "country": "HR",
                     "postalCode": "54467",
                     "phone": "2987654321"
-                },
+                }
             ],
             "paymentMethods": [
                 {
